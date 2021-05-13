@@ -1,2 +1,2 @@
 # DpAlgoVsAntAlgo
-it will produce the plot describing the difference between Dp and Ant in terms of the errors and time cosumption between them.
+如果老師覺得跑20個頂點太累了可以修改352行和383行range裡的值
